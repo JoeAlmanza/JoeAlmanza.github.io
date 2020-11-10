@@ -1,4 +1,3 @@
 module.exports = {
-  outputDir: "../client",
-  productionSourceMap: false
+  publicPath: process.env.NODE_ENV === "production",
 };
