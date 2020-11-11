@@ -5,7 +5,7 @@
   >
     <router-link class="navbar-brand d-flex m-auto" :to="{ name: 'Home' }">
       <div class="text-center">
-        <img src="../assets/name2.png" alt="" />
+        <img class="nameImg" src="../assets/name.png" alt="" />
       </div>
     </router-link>
     <button
@@ -55,5 +55,8 @@ export default {
 <style>
 .text-shadow {
   text-shadow: 1px 1px black;
+}
+.nameImg {
+  max-height: 40px;
 }
 </style>

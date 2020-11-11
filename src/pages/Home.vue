@@ -14,10 +14,10 @@
         </div>
       </div>
       <div class="row justify-content-center aboutRow" id="about">
-        <div class="col-lg-10 text-center text-light">
+        <div class="col-lg-7 text-center">
           <h2 class="mb-0">About Me</h2>
-          <h2>_____</h2>
-          <h5 class="mt-4">
+          <h2 class="">_____</h2>
+          <h5 class="mt-5">
             Joe is a Software Developer who was born and raised in Idaho. His
             background in Escrow has ingrained a strong sense of importance when
             it comes to communication, meeting deadlines, thoroughly completing
@@ -36,20 +36,20 @@
       </div>
 
       <div class="row justify-content-center skillsRow" id="skills">
-        <h2 class="col-12 mb-4 text-center">
-          <u>Technologies and Tools</u>
+        <h2 class="col-12 mb-2 text-center">
+          Technologies and Tools
         </h2>
-        <img src="../assets/Icons.png" class="mt-4" alt="" />
+        <img src="../assets/Icons2.png" class="mt-4" alt="" />
       </div>
 
-      <div class="row justify-content-center appRow text-light" id="portfolio">
-        <h2 class="col-12 mb-5 text-center"><u>Applications</u></h2>
+      <div class="row justify-content-center appRow" id="portfolio">
+        <h2 class="col-12 mb-5 text-center">Applications</h2>
         <a
           class="contents card text-center mx-5 my-2"
           href="https://bug-log89.herokuapp.com/"
         >
           <img class="appImg" src="../assets/BugLogImg.png" alt="" />
-          <div class="overlay text-center text-light p-1">
+          <div class="overlay text-center p-1">
             <h4 class="">Bug-Log</h4>
             <h5>Vue.js, Node.js, MongoDB</h5>
             <p>
@@ -63,7 +63,7 @@
           href="https://keepr20.herokuapp.com/"
         >
           <img class="appImg" src="../assets/KeeprImg.png" alt="" />
-          <div class="overlay text-center text-light p-1">
+          <div class="overlay text-center p-1">
             <h4 class="">Keepr</h4>
             <h5>Vue.js, .Net, MongoDB</h5>
             <p>
@@ -77,7 +77,7 @@
           href="https://petpal7.herokuapp.com/"
         >
           <img class="appImg" src="../assets/PetPalImg.png" alt="" />
-          <div class="overlay text-center text-light p-1">
+          <div class="overlay text-center p-1">
             <h4 class="">Pet-Pal</h4>
             <h5>Vue.js, Node.js, MongoDB</h5>
             <p>
@@ -90,40 +90,36 @@
         <h5 class="col-12 text-center mt-5">Check out all my projects here!</h5>
         <input
           type="button"
-          class="btn btn-secondary"
+          class="btn btn-outline-secondary"
           onclick="location.href='https://github.com/JoeAlmanza';"
           value="My Github!"
         />
       </div>
 
       <div class="row justify-content-center contactRow" id="contact">
-        <div class="col-12 text-center text-light">
-          <h2 class=""><u>Contact Me!</u></h2>
-          <h2>_____</h2>
-          <h5 class="my-4">If you like what you see, let me know!</h5>
+        <div class="col-12 text-center">
+          <h2>Contact Me!</h2>
+          <h5 class="my-5">If you like what you see, let me know!</h5>
         </div>
         <div class="col-4 pt-4 mx-0 text-center">
           <a class="my-4" :href="'mailto:JoeAlmanza2113@gmail.com'">
             <i
-              class="fa fa-envelope-o contactImg text-light"
+              class="fa fa-envelope-o contactImg text-secondary"
               aria-hidden="true"
             ></i>
             <br />
-            <h5 class="text-light">JoeAlmanza2113@gmail.com</h5>
+            <h5 class="text-secondary">JoeAlmanza2113@gmail.com</h5>
           </a>
         </div>
 
         <div class="col-4 pt-4 mx-0 text-center">
           <a
             class="my-4"
-            onclick="location.href='joealmanza.github.io/Joe-Almanza/';"
+            onclick="location.href='https://joealmanza.github.io/Joe-Almanza/';"
           >
-            <i
-              class="fa fa-file-text-o contactImg text-light"
-              aria-hidden="true"
-            ></i>
+            <i class="fa fa-file-text-o contactImg" aria-hidden="true"></i>
             <br />
-            <h5 class="text-light">Resume & More Info...</h5>
+            <h5 class="">Resume & More Info...</h5>
           </a>
         </div>
       </div>
@@ -148,21 +144,24 @@ strong {
   background-size: cover;
 }
 .aboutRow {
-  background-color: #220636;
+  background-color: #040524;
+  color: #a8ccdd;
   padding-top: 6rem;
   padding-bottom: 7rem;
 }
 .skillsRow {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  color: #040524;
+  padding-top: 5rem;
+  padding-bottom: 4rem;
 }
 img {
-  max-width: 80%;
+  max-height: 40vh;
 }
 .appRow {
-  background-color: rgb(0, 0, 0);
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  background-color: #040524;
+  color: #a8ccdd;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
 }
 .appImg {
   max-height: 12rem;
@@ -177,13 +176,15 @@ img {
   opacity: 0;
   transition: 0.5s ease;
   background-color: #040607b9;
+  color: #a8ccdd;
   text-shadow: 1px 1px black;
 }
 .contents:hover .overlay {
   opacity: 1;
 }
 .contactRow {
-  background-color: #000046;
+  background-color: #000000;
+  color: #a8ccdd;
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
