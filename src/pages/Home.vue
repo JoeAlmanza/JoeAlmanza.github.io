@@ -101,23 +101,41 @@
           <h2>Contact Me!</h2>
           <h5 class="my-5">If you like what you see, let me know!</h5>
         </div>
-        <div class="col-4 pt-4 mx-0 text-center">
+
+        <div class="col-3 pt-4 mx-0 text-center">
           <a class="my-4" :href="'mailto:JoeAlmanza2113@gmail.com'">
             <i
               class="fa fa-envelope-o contactImg text-secondary"
               aria-hidden="true"
             ></i>
             <br />
-            <h5 class="text-secondary">JoeAlmanza2113@gmail.com</h5>
+            <h5 class="text-info">JoeAlmanza2113@gmail.com</h5>
           </a>
         </div>
 
-        <div class="col-4 pt-4 mx-0 text-center">
+        <div class="col-3 pt-4 mx-0 text-center">
+          <a
+            class="my-4"
+            onclick="location.href='https://www.linkedin.com/in/joseph-almanza/';"
+          >
+            <i
+              class="fa fa-linkedin-square contactImg text-secondary"
+              aria-hidden="true"
+            ></i>
+            <br />
+            <h5>LinkedIn</h5>
+          </a>
+        </div>
+
+        <div class="col-3 pt-4 mx-0 text-center">
           <a
             class="my-4"
             onclick="location.href='https://joealmanza.github.io/Joe-Almanza/';"
           >
-            <i class="fa fa-file-text-o contactImg" aria-hidden="true"></i>
+            <i
+              class="fa fa-file-text-o contactImg text-secondary"
+              aria-hidden="true"
+            ></i>
             <br />
             <h5 class="">Resume & More Info...</h5>
           </a>
