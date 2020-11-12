@@ -26,12 +26,13 @@
             the curiousity for programming that comes with being a long time
             gamer, and growing up watching computers and the internet grow
             exponentially. Alongside software development and video games, I
-            love spending time with my cats, working on my car, and finding new
-            music to listen to. Learning software development has ignited the
-            spark of curiousity and I'm looking forward to learning as much as I
-            can as well as applying my skills to build more applications I'm
-            proud of. I also hold an Associates of Arts Degree in Information
-            Technology from The University of Phoenix.
+            love working on my car, spending time with my cats, athletic
+            activities, and finding new and interesting music. Learning software
+            development has ignited the spark of curiousity and I'm looking
+            forward to learning as much as I can as well as applying my skills
+            to build more applications that I can be proud of. I also hold an
+            Associates of Arts Degree in Information Technology from The
+            University of Phoenix.
           </h5>
         </div>
       </div>
