@@ -63,13 +63,13 @@
           class="contents card text-center mx-5 my-2"
           href="https://keepr20.herokuapp.com/"
         >
-          <img class="appImg" src="../assets/KeeprImg.png" alt="" />
+          <img class="appImg" src="../assets/KeeprImg1.png" alt="" />
           <div class="overlay text-center p-1">
             <h4 class="">Keepr</h4>
             <h5>Vue.js, .Net, MongoDB</h5>
             <p>
               App where users can log in, add images(keeps) and save others'
-              images to public or private vaults.
+              images to their own public or private vaults.
             </p>
           </div>
         </a>
