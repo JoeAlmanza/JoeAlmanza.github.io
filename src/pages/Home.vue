@@ -49,6 +49,8 @@
         <a
           class="contents card text-center mx-5 my-2"
           href="https://bug-log89.herokuapp.com/"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <img class="appImg" src="../assets/BugLogImg.png" alt="" />
           <div class="overlay text-center p-1">
@@ -63,6 +65,8 @@
         <a
           class="contents card text-center mx-5 my-2"
           href="https://keepr20.herokuapp.com/"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <img class="appImg" src="../assets/KeeprImg1.png" alt="" />
           <div class="overlay text-center p-1">
@@ -77,6 +81,8 @@
         <a
           class="contents card text-center mx-5 my-2"
           href="https://petpal7.herokuapp.com/"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <img class="appImg" src="../assets/PetPalImg.png" alt="" />
           <div class="overlay text-center p-1">
