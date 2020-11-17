@@ -68,7 +68,7 @@
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img class="appImg" src="../assets/KeeprImg1.png" alt="" />
+          <img class="appImg" src="../assets/KeeprImg01.png" alt="" />
           <div class="overlay text-center p-1">
             <h4 class="">Keepr</h4>
             <h5>Vue.js, .Net, MongoDB</h5>
@@ -89,13 +89,15 @@
             <h4 class="">Pet-Pal</h4>
             <h5>Vue.js, Node.js, MongoDB</h5>
             <p>
-              Card swiping app utilizing nationwide shelter data to help users
-              find adoptable pets in their area and contact the shelters holding
-              the pets.
+              Mobile card swiping app utilizing nationwide shelter data to help
+              users find adoptable pets in their area and contact the shelters
+              holding the pets.
             </p>
           </div>
         </a>
-        <h5 class="col-12 text-center mt-5">Check out all my projects here!</h5>
+        <h5 class="col-12 text-center mt-5">
+          Check out these and all my other projects here!
+        </h5>
         <input
           type="button"
           class="btn btn-outline-secondary"
