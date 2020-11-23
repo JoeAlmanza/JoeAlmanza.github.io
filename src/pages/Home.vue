@@ -47,7 +47,7 @@
       <div class="row justify-content-center appRow" id="portfolio">
         <h2 class="col-12 mb-5 text-center">Applications</h2>
         <a
-          class="contents card text-center mx-5 my-2"
+          class="contents card text-center mx-3 my-2"
           href="https://bug-log89.herokuapp.com/"
           target="_blank"
           rel="noopener noreferrer"
@@ -63,7 +63,7 @@
           </div>
         </a>
         <a
-          class="contents card text-center mx-5 my-2"
+          class="contents card text-center mx-3 my-2"
           href="https://keepr20.herokuapp.com/"
           target="_blank"
           rel="noopener noreferrer"
@@ -79,7 +79,7 @@
           </div>
         </a>
         <a
-          class="contents card text-center mx-5 my-2"
+          class="contents card text-center mx-3 my-2"
           href="https://petpal7.herokuapp.com/"
           target="_blank"
           rel="noopener noreferrer"
@@ -96,7 +96,7 @@
           </div>
         </a>
         <a
-          class="contents card text-center mx-5 my-2"
+          class="contents card text-center mx-3 my-2"
           href="https://joealmanza.github.io/soulclicker/"
           target="_blank"
           rel="noopener noreferrer"
