@@ -21,18 +21,18 @@
             I am a Software Developer who was born and raised in Idaho. With a
             background in Escrow, I have established skills and experience in
             handling multiple transactions within limited time constraints,
-            while still providing exceptional client satisfaction. While Escrow
-            gave me a sense of accomplishment, I have never been able to escape
-            the curiousity for programming that comes with being a long time
-            gamer, and growing up watching computers and the internet grow
-            exponentially. Alongside software development and video games, I
-            love working on my car, spending time with my cats, athletic
-            activities, and finding new and interesting music. Learning software
-            development has ignited the spark of curiousity and I'm looking
-            forward to learning as much as I can as well as applying my skills
-            to build more applications that I can be proud of. I also hold an
-            Associates of Arts Degree in Information Technology from The
-            University of Phoenix.
+            while still providing exceptional client satisfaction. I also hold
+            an Associates of Arts Degree in Information Technology from The
+            University of Phoenix. I became a Software Developer because I grew
+            up playing video games and watching computers and the internet
+            evolve, and have never been able to escape the curiousity for
+            computers and how they work. Alongside software development and
+            video games, I love cars, animals, finding new music, athletic
+            activities, and challenging myself. Software development has given
+            me a hunger to learn as much as I can, so I can sharpen my skills
+            and become a master at my craft. I'm looking forward to learning as
+            much as I can as well as applying my skills to continue to build
+            applications that I am proud of.
           </h5>
         </div>
       </div>
