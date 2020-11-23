@@ -95,6 +95,24 @@
             </p>
           </div>
         </a>
+        <a
+          class="contents card text-center mx-5 my-2"
+          href="https://joealmanza.github.io/soulclicker/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img class="appImg" src="../assets/SoulClicker.png" alt="" />
+          <div class="overlay text-center p-1">
+            <h4 class="">Soul Clicker</h4>
+            <h5>Vue.js</h5>
+            <p>
+              Simple clicker/idle game based off of one of my favorite video
+              games, Dark Souls. Utilizes Vue.js framework. Click the dragon to
+              acquire souls, then use those to buy weapons and spells to
+              increase soul intake.
+            </p>
+          </div>
+        </a>
         <h5 class="col-12 text-center mt-5">
           Check out these and all my other projects here!
         </h5>
