@@ -18,21 +18,25 @@
           <h2 class="mb-0">About Me</h2>
           <h2 class="">_____</h2>
           <h5 class="mt-5">
-            I am a Software Developer who was born and raised in Idaho. With a
-            background in Escrow, I have established skills and experience in
-            handling multiple transactions within limited time constraints,
-            while still providing exceptional client satisfaction. I also hold
-            an Associates of Arts Degree in Information Technology from The
-            University of Phoenix. I became a Software Developer because I grew
-            up playing video games and watching computers and the internet
-            evolve, and have never been able to escape the curiousity for
-            computers and how they work. Alongside software development and
-            video games, I love cars, animals, finding new music, athletic
-            activities, and challenging myself. Software development has given
-            me a hunger to learn as much as I can, so I can sharpen my skills
-            and become a master at my craft. I'm looking forward to learning as
-            much as I can as well as applying my skills to continue to build
-            applications that I am proud of.
+            I am a Software Developer based in Boise, Idaho. I enjoy working
+            with JavaScript, Vue.js, Node.js, C#, .Net, and MongoDB. I am always
+            open to learning new languages, and am currently learning React. I
+            also hold an Associates of Arts Degree in Information Technology
+            from The University of Phoenix.
+          </h5>
+          <h5 class="mt-5">
+            I wanted to learn software development because I grew up playing
+            video games and watching computers and the internet evolve, and have
+            never been able to escape the curiousity for computers and how they
+            work. Alongside software development and video games, I love cars,
+            animals, finding new music, athletic activities, and challenging
+            myself to learn new skills.
+          </h5>
+          <h5 class="mt-5">
+            Software development has given me a hunger to learn as much as I
+            can, so I can sharpen my skills and become a master at my craft. I'm
+            looking forward to learning as much as I can as well as applying my
+            skills to continue to build applications that I am proud of.
           </h5>
         </div>
       </div>
@@ -54,7 +58,7 @@
         >
           <img class="appImg" src="../assets/BugLogImg.png" alt="" />
           <div class="overlay text-center p-1">
-            <h4 class="">Bug-Log</h4>
+            <h4>Bug-Log</h4>
             <h5>Vue.js, Node.js, MongoDB</h5>
             <p>
               Bug tracker app where users can login, open bugs, add comments,
@@ -70,7 +74,7 @@
         >
           <img class="appImg" src="../assets/KeeprImg01.png" alt="" />
           <div class="overlay text-center p-1">
-            <h4 class="">Keepr</h4>
+            <h4>Keepr</h4>
             <h5>Vue.js, .Net, MongoDB</h5>
             <p>
               App where users can log in, add images(keeps) and save others'
@@ -86,12 +90,11 @@
         >
           <img class="appImg" src="../assets/PetPalImg.png" alt="" />
           <div class="overlay text-center p-1">
-            <h4 class="">Pet-Pal</h4>
+            <h4>Pet-Pal</h4>
             <h5>Vue.js, Node.js, MongoDB</h5>
             <p>
-              Mobile card swiping app utilizing nationwide shelter data to help
-              users find adoptable pets in their area and contact the shelters
-              holding the pets.
+              Mobile card swiping app for adopting pets. Utilizes nationwide
+              shelter data from an API to help users find pets in their area.
             </p>
           </div>
         </a>
@@ -103,13 +106,12 @@
         >
           <img class="appImg" src="../assets/SoulClicker.png" alt="" />
           <div class="overlay text-center p-1">
-            <h4 class="">Soul Clicker</h4>
+            <h4>Soul Clicker</h4>
             <h5>Vue.js</h5>
             <p>
               Simple clicker/idle game based off of one of my favorite video
-              games, Dark Souls. Utilizes Vue.js framework. Click the dragon to
-              acquire souls, then use those to buy weapons and spells to
-              increase soul intake.
+              games, Dark Souls. Click the dragon to acquire souls, then use
+              those to buy weapons and spells to increase soul intake.
             </p>
           </div>
         </a>
@@ -127,7 +129,9 @@
       <div class="row justify-content-center contactRow" id="contact">
         <div class="col-12 text-center">
           <h2>Contact Me!</h2>
-          <h5 class="my-5">If you like what you see, let me know!</h5>
+          <h5 class="my-5">
+            Any comments or questions, feel free to reach out!
+          </h5>
         </div>
 
         <div class="col-lg-3 pt-4 mx-0 text-center">
@@ -213,6 +217,7 @@ img {
 .appImg {
   max-height: 12rem;
   max-width: 25rem;
+  box-shadow: 9px 9px 18px #020212, -9px -9px 18px #060836;
 }
 .overlay {
   position: absolute;
@@ -238,6 +243,7 @@ img {
 .contactImg {
   font-size: 3em;
 }
+
 a {
   cursor: pointer;
 }
