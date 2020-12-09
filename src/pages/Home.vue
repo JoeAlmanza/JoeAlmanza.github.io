@@ -72,7 +72,7 @@
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img class="appImg" src="../assets/KeeprImg01.png" alt="" />
+          <img class="appImg" src="../assets/KeeprImg.png" alt="" />
           <div class="overlay text-center p-1">
             <h4>Keepr</h4>
             <h5>Vue.js, .Net, MongoDB</h5>
