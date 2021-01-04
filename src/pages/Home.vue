@@ -19,10 +19,9 @@
           <h2 class="">_____</h2>
           <h5 class="mt-5">
             I am a Software Developer based in Boise, Idaho. I enjoy working
-            with JavaScript, Vue.js, Node.js, C#, .Net, and MongoDB. I am always
-            open to learning new languages, and am currently learning React. I
-            also hold an Associates of Arts Degree in Information Technology
-            from The University of Phoenix.
+            with Vue.js, Node.js, C#, .Net, and MongoDB. I also hold an
+            Associates of Arts Degree in Information Technology from The
+            University of Phoenix.
           </h5>
           <h5 class="mt-5">
             I wanted to learn software development because I grew up playing
